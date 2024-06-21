@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\API.csproj": {}
+    "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\API.csproj": {
+    "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\API.csproj",
+        "projectPath": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
