@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|c:\\users\\hp\\music\\angulardotnet\\api\\api\\api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|solutionrelative:api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|c:\\users\\hp\\music\\angulardotnet\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|c:\\users\\hp\\music\\angulardotnet\\api\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|c:\\users\\hp\\music\\angulardotnet\\api\\api\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|c:\\users\\hp\\music\\angulardotnet\\api\\api\\api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91281FB-9BE1-4484-BE07-429B9E5DAB85}|API\\API.csproj|solutionrelative:api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "API\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwFsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:55:31.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T06:40:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:47:16.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABBwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:43:53.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\Music\\AngularDotNet\\API\\API\\API\\Models\\Student.cs",
+              "RelativeToolTip": "API\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:41:51.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
